@@ -26,3 +26,7 @@ I trained the networks until a pleateau and recorded the data. Then, I used the 
 <p align ="center">
   <img src="./statics/results.png">
 </p>
+
+# Conlusion
+
+As the resnet has a peak validation accurcy while training and performs the best predicting the test data, it is ideal to use with Pneumonia Identification
