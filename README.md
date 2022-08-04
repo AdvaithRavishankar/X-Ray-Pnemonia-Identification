@@ -1,4 +1,4 @@
-# X-Ray-Pnemonia-Identification
+# X-Ray-Pneumonia-Identification
 To find the ideal base network architecture (no image preprocessing), I compared the performance between 4 common image classification networks: Alexnet, Resnet, Inceptionnet and InceptionRenset.
 
 To compare the performance, I used the [X-ray Dastet on Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) made by PAUL MOONEY.
