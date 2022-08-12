@@ -18,10 +18,12 @@ I used the following callbacks:
 I trained the networks until a pleateau and recorded the data. Then, I used the trained model to predict on the test data, noting its accuracy.
 
 # Results
-
+After training till a plateau, these were the results for each network (Validation Accuracy Against Epoxh)
 <p align ="center">
   <img src="./statics/comparison.png">
 </p>
+
+Post Training, the were teseted on the test data data where each model performed as such:
 
 <p align ="center">
   <img src="./statics/results.png">
